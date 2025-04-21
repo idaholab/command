@@ -1,5 +1,5 @@
 ﻿This project contains code from Idaho National Laboratory.
-Github URL: https://github.com/idaholab/COMMAND
+Github URL: https://github.com/idaholab/command
 Licensed under LPGL 2.1
 
 
@@ -30,10 +30,12 @@ COMPLETENESS, OR USEFULNESS OR ANY INFORMATION, APPARATUS, PRODUCT, OR
 PROCESS DISCLOSED, OR REPRESENTS THAT ITS USE WOULD NOT INFRINGE PRIVATELY
 OWNED RIGHTS.
 
-Authors:
+Authors (sorted alphabetically):
 
+Ahmad Al Rashdan
 Jacob Farber
-
+Joseph Oncken
+Maria Coelho
 
 
 
